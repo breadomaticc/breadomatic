@@ -18,5 +18,6 @@ print(i'am Pro HTML maybe)
 
 <link rel="icon" href="https://ico.breadomatic.repl.co/images.ico" type="image/x-icon" />
 <script>
-console.log('Welcome on 0xflotus\' personal website.')
+alert("hello")
+console.log('Welcome!')
 </script>
